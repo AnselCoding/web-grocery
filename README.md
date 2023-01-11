@@ -1,4 +1,5 @@
 # web-grocery
+>This web is for grocery shopping web.
 
 ## Project setup
 ```
